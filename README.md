@@ -1,18 +1,19 @@
-# TitleInfo
+![license badge](/utils/images/license-MIT-License-yellow.svg)
 
-[https://img.shields.io/badge/license-Apache-yellow]
+  # lskja f;lksdj
+
   ## Description
 
-  Descinfo
+  ;as lkfja;lskdj
 
   ## Table of Contents
   
-  - [Installation](#Installation)
-  - [Usage](#Usage)
-  - [License](#License)
-  - [Contributing](#Contributing)
-  - [Tests](#Tests)
-  - [Questions](#Questions)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributing](#contributing)
+  - [Tests](#tests)
+  - [Questions](#questions)
   
   ## Installation
   
@@ -20,21 +21,24 @@
   
   ## Usage
   
-  UsageInfo
+  ls kf;lksj
   
   ## License
+
+  This software is covered by the MIT License. Please refer to this link for further details: 
+  [MIT License](https://opensource.org/licenses/MIT)
   
   ## Contributing
 
-  ContInfo
+  klsj f;ldskj
   
   ## Tests
 
-  TestInfo
+  ;lsdkj f;lksfadj
   
   ## Questions
 
-  Github: https://github.com/jaugs
+  Github: https://github.com/jaugsbu2	
 
-  Please email any questions to joshua@email.com
+  Please email any questions to: ;laksdjf;l ksa
 
