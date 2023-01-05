@@ -1,10 +1,10 @@
 ![license badge](/utils/images/license-MIT-License-yellow.svg)
 
-  # lskja f;lksdj
+  # README Generator Project
 
   ## Description
 
-  ;as lkfja;lskdj
+  This project is an application that uses Node JS and the inquirer library to prompt the user for information. Then creates a formatted README.md file with that information.
 
   ## Table of Contents
   
@@ -17,11 +17,11 @@
   
   ## Installation
   
-  npm i
+  npm i inquirer
   
   ## Usage
   
-  ls kf;lksj
+  To use this project the user must first install the inquirer library, then they must run the index file in Node JS. They must then fill out the information requested in the prompts and the README is generated.
   
   ## License
 
@@ -30,15 +30,15 @@
   
   ## Contributing
 
-  klsj f;ldskj
+  
   
   ## Tests
 
-  ;lsdkj f;lksfadj
+  
   
   ## Questions
 
-  Github: https://github.com/jaugsbu2	
+  Github: https://github.com/jaugsbu2
 
-  Please email any questions to: ;laksdjf;l ksa
+  Please email any questions to: joshua.augsburger08@gmail.com
 
